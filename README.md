@@ -18,21 +18,19 @@ A GUI-based Library Management System developed using Python, Tkinter, and MySQL
 
 ## Screenshots
 
-### Add Books
-![Add Books](screenshots/Add%20Books.png)
+<p align="center">
+  <img src="screenshots/Home%20Screen.png" width="300"/>
+  <img src="screenshots/Add%20Books.png" width="300"/>
+</p>
 
-### Home Screen
-![Home Screen](screenshots/Home%20Screen.png)
+<p align="center">
+  <img src="screenshots/Issue%20Book.png" width="300"/>
+  <img src="screenshots/Return%20Book.png" width="300"/>
+</p>
 
-### Issue Book
-![Issue Book](screenshots/Issue%20Book.png)
-
-### Return Book
-![Return Book](screenshots/Return%20Book.png)
-
-### View Books
-![View Books](screenshots/View%20Books.png)
-
+<p align="center">
+  <img src="screenshots/View%20Books.png" width="300"/>
+</p>
 
 ## Project Structure
 - Modular Python files for each functionality
